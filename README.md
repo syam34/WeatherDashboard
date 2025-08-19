@@ -31,8 +31,8 @@ The Weather Dashboard is a responsive web application built with React and Chakr
    cd weather-dashboard
 
 ## Install dependencies:
-```bash
-npm install
+   ```bash
+   npm install
 
 Create a .env file in the root directory and add your OpenWeatherMap API key:
 textVITE_API_KEY=your_api_key_here
@@ -41,8 +41,8 @@ Obtain an API key from OpenWeatherMap.
 
 
 Start the development server:
-```bash
-npm run dev
+   ```bash
+   npm run dev
 
 Open http://localhost:5173 in your browser.
 
@@ -57,8 +57,8 @@ Recent searches are displayed below the search bar for quick access.
 To deploy the app (e.g., on Vercel):
 
 ###Build the project:
-```bash
-npm run build
+   ```bash
+   npm run build
 
 Use a platform like Vercel:
 
